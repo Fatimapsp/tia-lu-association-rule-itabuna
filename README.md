@@ -45,6 +45,9 @@ Nesta etapa, os dados fornecidos representam transações de microempreendedores
 1. **Pré-processamento dos dados**: limpar e preparar os dados de transações.
 2. **Aplicar algoritmo de regras de associação**: Apriori, FP-Growth ou ECLAT.
 3. **Analisar resultados**: interpretar padrões frequentes e gerar insights para combos de produtos.
+4. Criar o ambiente virtual
+No terminal, dentro da pasta do projeto, execute:
+python -m venv venv
 
 ---
 
